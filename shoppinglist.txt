@@ -6,3 +6,5 @@ Bananas
 Cherries
 Carrot
 Cereal
+Cucumbers
+Raddishes
